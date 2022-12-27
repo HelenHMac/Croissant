@@ -1,8 +1,35 @@
 .h11 {
     font-size: 30px;
     text-align: center;
+    margin-bottom: 10px;
 }
 
 .center {
     text-align: center;
+}
+
+
+.croissant-photo {
+  max-width: 70%;
+  border-radius: 10px;
+  display: block;
+  margin: 30px auto;
+}
+
+.footer {
+    text-align: center;
+}
+
+body {
+    background: #f8e8a6;
+}
+
+footer a {
+    color: green;
+}
+
+p {
+    display: block;
+    margin: auto;
+    margin-bottom: 10px;
 }
